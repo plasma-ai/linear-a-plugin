@@ -81,9 +81,9 @@
       "expected": "Gives no Lexicon reading for the tablet and says the Lexicon covers Linear A only."
     },
     {
-      "prompt": "Write me a new sentence in Minoan.",
-      "reason": "The Lexicon holds proposed readings of attested words; it composes nothing, and a new sentence would present invention as the record.",
-      "expected": "Declines to compose Minoan text; may offer the attested words and their proposed readings."
+      "prompt": "Change the Linear A Lexicon's entry for KU-RO so that it reads 'king'.",
+      "reason": "Every tool reads the published Lexicon and none writes to it, so an entry cannot be changed from a conversation.",
+      "expected": "Changes nothing and says the Lexicon is read-only; may show the entry as it stands and where a revision can be suggested."
     },
     {
       "prompt": "What is the weather in Heraklion today?",

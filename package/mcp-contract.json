@@ -8,7 +8,7 @@
     "title": "Linear A Lexicon",
     "version": "1.2.2"
   },
-  "instructions": "Linear A Lexicon holds Tom di Mino’s proposed readings of Linear A as Minoan, an archaic Semitic language. Give each reading and translation as his proposal, with its tier, and name any rival mentioned. Confirmed fixes function, not etymology. Never invent a reading, translation or record; report not-found plainly. Named item: get_. Sets: list_/find_. Statistical tests: kernel_summary, run_*_kernel. Otherwise: search, then fetch. Cite each url.",
+  "instructions": "Linear A Lexicon holds Tom di Mino’s proposed readings of Linear A as Minoan, an archaic Semitic language. Give each reading and translation as his proposal, with its tier, and name any rival mentioned. Confirmed fixes function, not etymology. Never invent a reading, translation or record. Compose no new Minoan text. Linear A only. Report not-found plainly. Named item: get_. Sets: list_/find_. Statistical tests: kernel_summary, run_*_kernel. Otherwise: search, then fetch. Cite each url.",
   "tools": [
     {
       "name": "search",
